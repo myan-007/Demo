@@ -11,3 +11,6 @@ Vegetables
 tomato
 eggplant
 carrots
+
+Dry fruits
+Cashew
