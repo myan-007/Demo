@@ -9,5 +9,5 @@ Pineapple
 
 Vegetables
 tomato
-cabbage
-cucumber
+eggplant
+carrots
