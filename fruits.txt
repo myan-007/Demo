@@ -6,3 +6,8 @@ Jackfruit
 Peach
 Grapes 
 Pineapple
+
+Vegetables
+tomato
+cabbage
+cucumber
