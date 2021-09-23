@@ -4,3 +4,5 @@ Banana
 Orange
 Jackfruit
 Peach
+Grapes 
+Pineapple
